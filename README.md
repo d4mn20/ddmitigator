@@ -1,5 +1,5 @@
 
-# README for DefectDojo OpenAI Integration Script
+# DDMitigator
 
 ## Overview
 This Python script integrates DefectDojo, an open-source application vulnerability management tool, with OpenAI's language model to provide automated mitigation suggestions for findings (vulnerabilities). The script polls DefectDojo for new findings and uses OpenAI's AI to generate mitigation steps, which are then posted back to the respective findings in DefectDojo.
